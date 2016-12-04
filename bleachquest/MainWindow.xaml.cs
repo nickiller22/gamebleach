@@ -20,7 +20,7 @@ namespace bleachquest
     public partial class MainWindow : Window
     {
         static public MediaPlayer player = new MediaPlayer();
-        static bool gametwobool = false;
+        static bool gametwobool = false;//comment
         public MainWindow()
         {
             InitializeComponent();

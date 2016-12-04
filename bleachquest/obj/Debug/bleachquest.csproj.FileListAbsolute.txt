@@ -142,3 +142,5 @@ C:\Users\Владислав\Desktop\bleachquest\bleachquest\bleachquest\obj\Debu
 C:\Users\Владислав\Desktop\bleachquest\bleachquest\bleachquest\obj\Debug\bleachquest.csproj.GenerateResource.Cache
 C:\Users\Владислав\Desktop\bleachquest\bleachquest\bleachquest\obj\Debug\bleachquest.exe
 C:\Users\Владислав\Desktop\bleachquest\bleachquest\bleachquest\obj\Debug\bleachquest.pdb
+C:\Users\NICKILLER22\Desktop\gamebleach\bleachquest\obj\Debug\bleachquest.exe
+C:\Users\NICKILLER22\Desktop\gamebleach\bleachquest\obj\Debug\bleachquest.pdb
